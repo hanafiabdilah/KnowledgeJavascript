@@ -15,7 +15,7 @@ console.log(num)
 console.log(newNum)
 
 // 2
-ini membuktikan bahwa jika value dari kedua variable adalah sama, maka jika dibandingkan hasilnya adalah True
+// ini membuktikan bahwa jika value dari kedua variable adalah sama, maka jika dibandingkan hasilnya adalah True
 const num = 1
 const num2 = 1
 console.log(num === num2)
